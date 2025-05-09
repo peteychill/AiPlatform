@@ -1,0 +1,8 @@
+# requirements.txt
+django>=4.2,<5.0
+openai>=1.0.0
+python-dotenv>=1.0.0
+django-oauth-toolkit>=1.0.0
+django-sslserver
+djangorestframework==3.16.0
+oauthlib
